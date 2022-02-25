@@ -1,0 +1,233 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A preparation for Christmass, or The pious soul sighing out a oblation of praise and wonder on that miracle of divine love the incarnation of her saviour. To which is added a hymn on the same occasion. R.B.</title>
+            <author>R. B.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1674</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A55674</idno>
+            <idno type="STC">Wing P3214A</idno>
+            <idno type="STC">ESTC R218349</idno>
+            <idno type="EEBO-CITATION">99829952</idno>
+            <idno type="PROQUEST">99829952</idno>
+            <idno type="VID">34399</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A55674)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 34399)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2014:10)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A preparation for Christmass, or The pious soul sighing out a oblation of praise and wonder on that miracle of divine love the incarnation of her saviour. To which is added a hymn on the same occasion. R.B.</title>
+                  <author>R. B.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for G. Widdows at the Green Dragon in St. Paul's Church-Yard,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1674.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original at the Lambeth Palace Library, London.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Christmas --  England --  Early works to 1800.</term>
+               <term>Christmas --  Poetry --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-08</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2011-08</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:34399:1"/>
+            <pb facs="tcp:34399:1" rendition="simple:additions"/>
+            <p>A Preparation for CHRISTMASS, OR The <hi>Pious Soul</hi> ſighing out an Oblation of Praiſe and Wonder on that Miracle of Divine Love The Incarnation of Her SAVIOUR.</p>
+            <p>To which is Added A HYMN on the ſame Occaſion.</p>
+            <p>By <hi>R. B.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>G. Widdows</hi> at the Green <hi>Dragon</hi> in St. <hi>Paul's</hi> Church-Yard, 1674.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:34399:2" rendition="simple:additions"/>
+            <pb facs="tcp:34399:2"/>
+            <head>A Chriſtian Meditation on CHRITSMASS, &amp;c.</head>
+            <p>
+               <seg rend="decorInit">I</seg>S the wonderful <hi>Nativity</hi> of my bleſſed <hi>Saviour</hi> this day commemorated by a ſolemn <hi>Feſtival,</hi> and ſhall my ſtupid <hi>Soul</hi> not endeavour by ſome awakening <hi>Meditations,</hi> to blow the ſparks of her gratitude into flames of Love and Wonder for ſuch a Miracle of mercy?</p>
+            <p>
+               <hi>Feſtivals;</hi> tis true, are proper ſeaſons of <hi>Mirth</hi> and Gladneſs, nor does Religion delight in that <hi>Sower look</hi> and <hi>unſociable</hi> po<g ref="char:EOLhyphen"/>ſture wherein ſlie Hypocrites repreſent her; Tis poſſible the <hi>Conduit</hi> on ſome occaſions may lawfully run waſt, and ſince a <hi>good Conſcience is a continual Feaſt,</hi> there is no doubt but we may be <hi>Merry</hi> with it; yet certainly he who only minds his Good <hi>Ch<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>er</hi> in this days Solem<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ity ſpeak; himſelf more an <hi>Epi<g ref="char:EOLhyphen"/>cure</hi> than a <hi>Chriſtian,</hi> and may be ſaid to celebrate <hi>Bacchus</hi> his drunken Revels, rather than the Birth of the Holy <hi>Jeſus.</hi>
+            </p>
+            <p>This was that glorious Moment which God in infinite mercy had promiſed our firſt <hi>Parents</hi> immediately after their unhappy Fall from primitive Innocence, and which the Church had now ſighed for, near <hi>four thouſand</hi> years, wherein was born the ex<g ref="char:EOLhyphen"/>pectation of Nations, and the long long'd for Redeemer of the World, did (as his <hi>Prophetick Harbingers</hi> had foretold) rend the Heavens, and come down from <hi>Manſions of Glory</hi> in the veſture of Humanity; <hi>Thou,</hi> Oh my deareſt <hi>Lord!</hi> that by the virtue of the higheſt, were conceived in the womb of an In<g ref="char:EOLhyphen"/>violate <hi>Virgin,</hi> of all women the m<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſt <hi>bleſſed,</hi> and yet more bleſſed by being thy <hi>Daughter</hi> and thy <hi>Servant,</hi> than in being thy <hi>Mother.</hi>
+            </p>
+            <pb n="4" facs="tcp:34399:3"/>
+            <p>Thou at whoſe Birth the whole Quire of Heaven did ſing <hi>Hallelujahs,</hi> and Angels in kindneſs to mankind, made haſt to acquaint ever Shepherds with the bleſſed <hi>News;</hi> But on my God! why wouldſt thou be firſt made known to the meaneſt condi<g ref="char:EOLhyphen"/>tion of men? Why were they ſent to ſee their Saviour, not in ſome gorgeous Palace but in the <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ileſt Room of a common <hi>Inn?</hi> And (inſtead of a Cradle deckt with rich Embroideries) ly<g ref="char:EOLhyphen"/>ing in a deſpicable <hi>Manger?</hi> Way didſt thou not chooſe for the place of thy bleſsed Mothers Delivery, either <hi>Athens</hi> the Learned, or <hi>Rome</hi> the Emperial, or <hi>Jeruſalem</hi> the holy City? Or ſince poor <hi>Bethlehem</hi> to verify thy Prophets prediction, muſt receive that Honor; Why didſt Thou not ſend <hi>Millions</hi> of Cherubins and Seraphins before thee for thy glorious Harbin<g ref="char:EOLhyphen"/>gers?</p>
+            <p>No my God! It was thy Will, it was thy Will (which is the higheſt of Reaſons) by thy low beginning in the Fleſh to confound all Pride, and reach the glories of the Earth to Bluſh. Diſobedient <hi>Adam</hi> had deſtroy'd us by Ambition, and thou wilt Save us by thy Humility: He thinking to become like God, had precipitated us all into an Abyſs of Death and Mi<g ref="char:EOLhyphen"/>ſery, and thou, the God of Compaſſions by becoming like to <hi>Man,</hi> haſt reſtor'd us to Life Eternal.</p>
+            <p>Yet thu<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> privately born, and thus homely received, denyed admittance into the Inn, and forced by worſe than <hi>brutiſh</hi> men, to take up a lodging amongſt Beaſts; Behold a <hi>new Star</hi> deſcend<g ref="char:EOLhyphen"/>ing to Illuſtrate thy Obſcurity, and conduct the wiſe men of the <hi>Eaſt</hi> (now <hi>wiſe</hi> indeed) with their choiceſt preſents to Adore thee: On ſtrange appearence in the <hi>Heavens!</hi> and yet one more ſtrange and glorious on the <hi>Earth!</hi> Did ever <hi>Hippocri<g ref="char:EOLhyphen"/>tus, Ptotomy,</hi> the famous<g ref="char:punc">▪</g> 
+               <hi>Treſmegiſt</hi> or the greater <hi>Moſes,</hi> or all the Aegyp<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ian <hi>Stargaz<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rs</hi> ever contemplate before ſuch a Pla<g ref="char:EOLhyphen"/>net? So Irregular! ſo Ex<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>entrical, and yet conſtant to its de<g ref="char:EOLhyphen"/>ſigned end<g ref="char:punc">▪</g> as if the Celeſtial lights has forſaken their proper <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>ions and natural poſitions to welcome the Lord of all Na<g ref="char:EOLhyphen"/>ture
+<pb n="5" facs="tcp:34399:3"/>into the World! Thus, oh my <hi>Lord!</hi> didſt thou deſcend to Earth, that thou mayſt raiſe us to Heaven, Envelloping thy ſelf in clouds of Obſcurity, to Crown us with Light and Im<g ref="char:EOLhyphen"/>mortality, participating of <hi>humane</hi> Nature, that we might partake of that <hi>Divine,</hi> and cloathing thy ſelf with our <hi>Fleſh,</hi> that we might be inveſted with thy <hi>Spirit.</hi>
+            </p>
+            <p>In the whole courſe of thy precious Life, what ſhall I firſt, what ſhall I moſt admire? All is <hi>Wonder,</hi> all <hi>Amazement,</hi> and forces my nonpluſt Reaſon in a holy Extaſy to that Sanctuary of thy ſervant <hi>Paul; Oh the Height! oh the Depth!</hi> &amp;c. Shall I firſt celebrate Thy ever bleſſed Name, for convincing the great Doctors of the Law at <hi>twelve</hi> years of thine Age? When thy <hi>divine</hi> Eſſence began to Blaze, which had layn before as it were ſlumbring in the vail of thy <hi>Humanity?</hi> Or ſhall I paſs from this miracle of <hi>Knowledge</hi> to thy miracles of <hi>Charity,</hi> in healing the <hi>Blind,</hi> the <hi>Lame,</hi> the <hi>Deaf,</hi> the <hi>Dumb?</hi> Or ſhall <hi>I</hi> more contemplate the Acts of thy <hi>Power,</hi> in checking the unru<g ref="char:EOLhyphen"/>ly <hi>Winds</hi> unto a calm; walking on the <hi>Waves,</hi> raiſing the <hi>Dead,</hi> and caſting forth unclean <hi>Spirits!</hi> Or ſhall I remain Stupifyed (as all the Learnedſt part of the World was, which lay gro<g ref="char:EOLhyphen"/>veling in the contemplation of inferior Cauſes) that at thy coming, all their falſe <hi>Oracles;</hi> and prophetick Deluſions were ſtrucken <hi>mute,</hi> and no more anſwers could be had from <hi>Delphos</hi> or <hi>Hammon?</hi> Or ſhall I run my thoughts from thy Cradle to thy Croſs, and conſider how at thy paſſion all Nature did ſuffer, the Earch ſhaking; Graves opening; and the Heavens by a Preternatural <hi>Ecliſpe</hi> of the Sun all over Invelloped with an af<g ref="char:EOLhyphen"/>frighting Darkneſs? Or laſtly; after thou hadſt Triumphed over Death and Hell (whoſe <hi>Keys</hi> are in thy Hand alone) ſhall I glorify thy Aſſumption into the higheſt Heavens?</p>
+            <p>Yes, bleſſed Lord! all this and much more there is than the whole World can contein if it were Written; Yet one thing remains even after thy gloriou<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Departure, for the com<g ref="char:EOLhyphen"/>fort of our Souls, that thou haſt diſpenſed thy ſaving Doctrine,
+<pb n="6" facs="tcp:34399:4"/>not by Eloquent <hi>Sophiſts,</hi> or ſubtle <hi>Schoolmen</hi> (ſuch as have ſince diſtracted and torn thy <hi>Church</hi> in pieces) but by the ſim<g ref="char:EOLhyphen"/>pleſt and ſeemingly contemptible Inſtruments, ſo that it muſt needs be thy <hi>Divine</hi> truth ſince it was impreſſed by no <hi>humane</hi> means: How ſhould we have known, or how ſhould we have apprehended thy eternal Generation? If thou hadſt not been pleaſed to vouchſafe a ſilly Fitherman to lean on thy Breaſt, and inſpire him to tel us, That <hi>In the beginning was the Word, and the Word was with God, and the Word was God.</hi>
+            </p>
+            <p>Therefore to Thee, Thou <hi>Incarnate Word!</hi> do we with an humble confidence, Addreſs our ſelves diſowning all other <hi>Me<g ref="char:EOLhyphen"/>diators;</hi> Thou only true <hi>Meſſias!</hi> The wiſdom of the Father in whom all Prophecies are accompliſhed, and the <hi>Will</hi> of God, and <hi>Deſires</hi> of Men fulfilled; teach us to contemplate thy Nati<g ref="char:EOLhyphen"/>vity, not <hi>vainly</hi> or Superficially as we do a curious <hi>Picture</hi> or pleaſant <hi>Hiſtory,</hi> but to <hi>improve</hi> the ſame to the advan<g ref="char:EOLhyphen"/>tage of our Souls; Let the meditation of thy <hi>Birth,</hi> inflame us with deſires to be born again, and may we read in thy <hi>Incarna<g ref="char:EOLhyphen"/>tion,</hi> the true model of our own <hi>Regeneration.</hi> Look down upon us thy unworthy Creatures, from thy Throne of Glory: Teach us thy <hi>Love,</hi> but ſuch a Love, as doth <hi>fear</hi> to offend thee; teach us thy <hi>Fear,</hi> but ſuch a Fear as firſt doth <hi>love</hi> thee; And endue us with thy <hi>Grace,</hi> whilſt by thy Permiſſion we walk on this <hi>Globe</hi> which thy bleſſed Feet have trodden, to Solemnize this <hi>Day</hi> of thy Nativity, not with <hi>vain Delights</hi> or <hi>wanton Jollities,</hi> but with <hi>Hymns</hi> of <hi>Joy,</hi> and Meditations of like <hi>Comfort.</hi>
+            </p>
+         </div>
+         <div type="hymn">
+            <pb facs="tcp:34399:4"/>
+            <head>A Hymn for CHRISTMASS.</head>
+            <lg>
+               <l>HAil ſacred <hi>Tide.</hi>
+               </l>
+               <l>Wherein a <hi>Bride:</hi>
+               </l>
+               <l>A <hi>Virgin</hi> which is more,</l>
+               <l>Brought forth a <hi>Son</hi>
+               </l>
+               <l>The like was done</l>
+               <l>Ne're in the World before.</l>
+            </lg>
+            <lg>
+               <l>Let none upbraid</l>
+               <l>This <hi>Bleſſed maid</hi>
+               </l>
+               <l>Nor yet to her Addreſs,</l>
+               <l>
+                  <hi>Worſhip</hi> which She</l>
+               <l>Muſt bluſh to ſee,</l>
+               <l>And modeſtly wiſh <hi>Leſs,</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>Her <hi>womb</hi> moſt Chaſt</l>
+               <l>
+                  <hi>Nine</hi> Months embrac't</l>
+               <l>
+                  <hi>Him</hi> whom nor <hi>Earth</hi> nor <hi>Air</hi>
+               </l>
+               <l>Nor the vaſt mould</l>
+               <l>Of <hi>Heaven,</hi> can hold;</l>
+               <l>Cauſe he's <hi>Ubiquitair.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>Oh! would he Daign</l>
+               <l>To come and <hi>Raign,</hi>
+               </l>
+            </lg>
+            <pb n="8" facs="tcp:34399:5" rendition="simple:additions"/>
+            <lg>
+               <l>I'th centre of my heart</l>
+               <l>And make it ſtill</l>
+               <l>His <hi>Domicil,</hi>
+               </l>
+               <l>And reſidence in part.</l>
+            </lg>
+            <lg>
+               <l>But in ſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <hi>foul</hi> a Cell</l>
+               <l>Can he abide to dwell?</l>
+               <l>Yes, when he pleaſe to move,</l>
+               <l>His Harbingers to ſweep the Room,</l>
+               <l>And with rich <hi>Odors</hi> it perfume,</l>
+               <l>Of Faith, of Hope and Love.</l>
+            </lg>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
